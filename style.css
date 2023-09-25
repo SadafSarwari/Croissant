@@ -1,0 +1,23 @@
+body {
+  text-align: center;
+  display: block;
+  margin: 0 auto;
+  padding: 50px;
+}
+ul {
+  list-style: none;
+
+  display: flex;
+  flex-direction: row;
+  margin: 0 auto;
+  justify-content: center;
+}
+li {
+  padding: 30px;
+}
+a {
+  text-decoration: none;
+}
+img {
+  border-radius: 10px;
+}
