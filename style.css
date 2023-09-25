@@ -3,6 +3,7 @@ body {
   display: block;
   margin: 0 auto;
   padding: 50px;
+  background-color: plum;
 }
 ul {
   list-style: none;
