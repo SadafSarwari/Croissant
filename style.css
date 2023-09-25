@@ -18,10 +18,10 @@ li {
 }
 a {
   text-decoration: none;
-  color: blue;
+  color: rgb(19, 19, 65);
 }
 a:active {
-  color: blueviolet;
+  color: rgb(68, 5, 127);
 }
 img {
   border-radius: 10px;
